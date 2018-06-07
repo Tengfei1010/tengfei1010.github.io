@@ -6,15 +6,18 @@ narrow: true
 
 {% include components/intro.md %}
 
-<hr />
+#### Scholarship and Certificate
 
-The about page allows you to expand a bit more on the intro. Add some more information here about your skills, experience, etc.
+- Fourth Place (Gtensor Team) in China Network Security Competition [Sina News](http://tech.sina.com.cn/2017-05-24/doc-ifyfkqwe0980996.shtml){:target="_blank"} .
+- National Scholarship for Graduate students.
+- Third prize in “LanQiaoBei” of National Software Design Competition.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Patents
 
-### Technology
+- A model and method for detecting Android application ad plug-ins. [China Patents](http://www.soopat.com/Patent/201710139933){:target="_blank"}
+- A method can recognize adware in Android System. [China Patents](http://www.soopat.com/Patent/201610647400){:target="_blank"}
+- Smart grid information transmission safety protection device and safety protection method. [China Patens](http://www.soopat.com/Patent/201710722821){:target="_blank"}
 
-* JavaScript
-* Python
-* Go
-* Etc
+#### Technology
+
+Software design and implementation, with(in) a team.  Big fan of Agile methodologies (Scrum). Enjoys writing Python and Java, yet flirts regularly with Python. Linux administration skills: Bash, Nginx, MySQL, PostgresSQL, Redis, Elasticsearch, Go and LLVM.

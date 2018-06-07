@@ -1,3 +1,15 @@
-This is the homepage of an imaginary person called John Smith who lives in London, UK. It exists as a demo of the Friday Theme, which is a portfolio and blog theme for Jekyll.
+I am a 3rd year PHD candidate, under the supervision of Professor Qiaoyan Wen in Network Security Research Group of State Key Laboratory Of Networking And Switching Technology at [Beijing University Of Posts and Telecommunications](http://www.bupt.edu.cn/){:target="_blank"} , Beijing, China. <br/>
+I earned my B.S. in Software Engineering from [Qingdao University](http://www.qdu.edu.cn/){:target="_blank"}  in 2013. Now, I am a visiting PHD student in [Penn State University](http://www.psu.edu/){:target="_blank"} , co-advised by [Prof. Linhai Song](https://songlh.github.io/){:target="_blank"}  and [Prof. Peng Liu](https://s2.ist.psu.edu/pliu/){:target="_blank"} .
 
-Let's imagine John Smith is a freelance software engineer. He blogs occasionally, maintains some project pages for things he has on GitHub, and has a portfolio of work that he maintains instead of a CV. Friday Theme has layouts and collections for exactly that. This web site is a demo of it in action.
+#### Research Interests
+
+ Mobile Security, Network Security, Cloud Computing Security, Program Analysis and Machine Learning
+
+#### Experience
+
+- Researching the security of protocols in industrial control system.
+- Researching adware and malware in Android system.
+- Researching the integrity of outsourced data for secure clouding storage.
+- Developed fuzzing tools for protocols, computer softwares and mobile apps.
+- Developed log analysis system based on cloud computing.
+- Developed a program performance analysis tool.
