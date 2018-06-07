@@ -9,11 +9,14 @@ excerpt_separator: <!--more-->
 # Config for your profile.
 title:            tengfei1010.github.io  # Site title
 name:             Tengfei Tu              # Your name
-avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+avatar:           /theme/img/6356994.png   # Path to an avatar image
+cnname:           涂腾飞
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/tengfei1010.github.io"
+# baseurl: "/tengfei1010.github.io"
+# debug in local
+baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
@@ -64,5 +67,3 @@ defaults:
     values:
       show_profile: false
       layout: defaults/list
-
-
