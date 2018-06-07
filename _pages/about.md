@@ -6,6 +6,21 @@ narrow: true
 
 {% include components/intro.md %}
 
+<hr/>
+
+#### Research Interests
+
+ Mobile Security, Network Security, Cloud Computing Security, Program Analysis and Machine Learning
+
+#### Experience
+
+- Researching the security of protocols in industrial control system.
+- Researching adware and malware in Android system.
+- Researching the integrity of outsourced data for secure clouding storage.
+- Developed fuzzing tools for protocols, computer softwares and mobile apps.
+- Developed log analysis system based on cloud computing.
+- Developed a program performance analysis tool.
+
 #### Scholarship and Certificate
 
 - Fourth Place (Gtensor Team) in China Network Security Competition [Sina News](http://tech.sina.com.cn/2017-05-24/doc-ifyfkqwe0980996.shtml){:target="_blank"} .

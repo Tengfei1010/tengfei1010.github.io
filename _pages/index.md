@@ -8,6 +8,8 @@ narrow: true
 
 [More about Tengfei Tu.]({{ site.baseurl}}{% link _pages/about.md %})
 
+<hr/>
+
 <div class="card mb-2">
     <img class="card-img-top" src="{{ site.baseurl }}/theme/img/Spring-Lion.jpg"/>
     <div class="card-body bg-light">
