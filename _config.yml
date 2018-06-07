@@ -14,9 +14,9 @@ cnname:           涂腾飞
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
-# baseurl: "/tengfei1010.github.io"
+baseurl: "/tengfei1010.github.io"
 # debug in local
-baseurl: ""
+# baseurl: ""
 
 # Add a directory to hold misc pages, just to keep the root directory clean.
 include: ["_pages", "_portfolio"]
