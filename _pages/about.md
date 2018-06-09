@@ -23,9 +23,17 @@ narrow: true
 
 #### Scholarship and Certificate
 
-- Fourth Place (Gtensor Team) in China Network Security Competition [Sina News](http://tech.sina.com.cn/2017-05-24/doc-ifyfkqwe0980996.shtml){:target="_blank"} .
+- Fourth Place (Gtensor Team) in China Network Security Competition [Sina News](http://tech.sina.com.cn/2017-05-24/doc-ifyfkqwe0980996.shtml){:target="_blank"}.
 - National Scholarship for Graduate students.
 - Third prize in “LanQiaoBei” of National Software Design Competition.
+
+#### Publish
+1. Rao, L., Tu, T., Zhang, H., Wen, Q., & Xiao, J. (2018). Dynamic Outsourced Proofs of Retrievability Enabling Auditing Migration for Remote Storage Security. Wireless Communications and Mobile Computing, 2018.
+2. Zhang, H., & Tu, T. (2017). Dynamic Outsourced Auditing Services for Cloud Storage Based on Batch-Leaves-Authenticated Merkle Hash Tree. IEEE Transactions on Services Computing.
+3. Tu, T., Rao, L., Zhang, H., Wen, Q., & Xiao, J. (2017). Privacy-Preserving Outsourced Auditing Scheme for Dynamic Data Storage in Cloud. Security and Communication Networks, 2017.
+4. CHEN, Z., ZHANG, H., & TU, T. (2017). ICSMap: An ICS Scanning Tool Based on Stateless Connections. DEStech Transactions on Computer Science and Engineering, (aiea).
+5. Tu, T., Zhang, H., Qin, B., & Chen, Z. (2017). A Vulnerability Mining System Based on Fuzzing for IEC 61850 Protocol.
+6. Qin, B., Zhang, H., Tu, T., & Guan, H. AN SDN-BASED ADAPTIVE SAMPLING FRAMEWORK FOR BOTNET DETECTION IN IOT NETWORKS.
 
 #### Patents
 
