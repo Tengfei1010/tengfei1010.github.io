@@ -5,6 +5,8 @@ permalink: list/projects.html
 show_profile: true
 ---
 
-{% for project in site.projects %}
-- [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
+{% assign sorted = site.projects | reverse %}
+
+{% for project in sorted %}
+  {% include components/project-card.html %}
 {% endfor %}

@@ -36,7 +36,7 @@ defaults:
 # Turn the profile sidebar on for all pages by default, except for the
 # collections, where it is off and replaced by useful things on the sidebar.
 # To override this one a page, use
-#    show_profile: false
+   # show_profile: true
 # to hide the profile.
   -
     scope:

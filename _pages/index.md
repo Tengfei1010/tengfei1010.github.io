@@ -22,3 +22,5 @@ narrow: true
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
+
+{% include bars/copyright.html %}
