@@ -21,6 +21,8 @@ narrow: true
 - Developed log analysis system based on cloud computing.
 - Developed a program performance analysis tool.
 
+[More about Project.]({{ site.baseurl}}{% link list/projects.md %})
+
 #### Scholarship and Certificate
 
 - Fourth Place (Gtensor Team) in China Network Security Competition [Sina News](http://tech.sina.com.cn/2017-05-24/doc-ifyfkqwe0980996.shtml){:target="_blank"}.
