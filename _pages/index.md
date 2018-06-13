@@ -11,7 +11,7 @@ narrow: true
 <hr/>
 
 <div class="card mb-2">
-    <img class="card-img-top" src="{{ site.baseurl }}/theme/img/Spring-Lion.jpg"/>
+    <img class="card-img-top" src="{{ site.baseurl }}/theme/img/rock-climbing.jpg"/>
     <div class="card-body bg-light">
         <div class="card-text">A picture from Penn State University.</div>
     </div>
