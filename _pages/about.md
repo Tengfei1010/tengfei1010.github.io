@@ -29,7 +29,7 @@ narrow: true
 - National Scholarship for Graduate students.
 - Third prize in “LanQiaoBei” of National Software Design Competition.
 
-#### Publish
+#### Publications
 1. Rao, L., Tu, T., Zhang, H., Wen, Q., & Xiao, J. (2018). Dynamic Outsourced Proofs of Retrievability Enabling Auditing Migration for Remote Storage Security. Wireless Communications and Mobile Computing, 2018.
 2. Zhang, H., & Tu, T. (2017). Dynamic Outsourced Auditing Services for Cloud Storage Based on Batch-Leaves-Authenticated Merkle Hash Tree. IEEE Transactions on Services Computing.
 3. Tu, T., Rao, L., Zhang, H., Wen, Q., & Xiao, J. (2017). Privacy-Preserving Outsourced Auditing Scheme for Dynamic Data Storage in Cloud. Security and Communication Networks, 2017.
