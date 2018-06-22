@@ -30,12 +30,13 @@ narrow: true
 - Third prize in “LanQiaoBei” of National Software Design Competition.
 
 #### Publications
-1. Rao, L., Tu, T., Zhang, H., Wen, Q., & Xiao, J. (2018). Dynamic Outsourced Proofs of Retrievability Enabling Auditing Migration for Remote Storage Security. Wireless Communications and Mobile Computing, 2018.
-2. Zhang, H., & Tu, T. (2017). Dynamic Outsourced Auditing Services for Cloud Storage Based on Batch-Leaves-Authenticated Merkle Hash Tree. IEEE Transactions on Services Computing.
-3. Tu, T., Rao, L., Zhang, H., Wen, Q., & Xiao, J. (2017). Privacy-Preserving Outsourced Auditing Scheme for Dynamic Data Storage in Cloud. Security and Communication Networks, 2017.
-4. CHEN, Z., ZHANG, H., & TU, T. (2017). ICSMap: An ICS Scanning Tool Based on Stateless Connections. DEStech Transactions on Computer Science and Engineering, (aiea).
-5. Tu, T., Zhang, H., Qin, B., & Chen, Z. (2017). A Vulnerability Mining System Based on Fuzzing for IEC 61850 Protocol.
-6. Qin, B., Zhang, H., Tu, T., & Guan, H. AN SDN-BASED ADAPTIVE SAMPLING FRAMEWORK FOR BOTNET DETECTION IN IOT NETWORKS.
+1. Cong Pian, Guangle Zhang, Tengfei Tu, Xiangyu Ma, Fei Li; LncCeRBase: a database of experimentally validated human competing endogenous long non-coding RNAs, Database, Volume 2018, 1 January 2018, bay061, https://doi.org/10.1093/database/bay061 
+2. Rao, L., Tu, T., Zhang, H., Wen, Q., & Xiao, J. (2018). Dynamic Outsourced Proofs of Retrievability Enabling Auditing Migration for Remote Storage Security. Wireless Communications and Mobile Computing, 2018.
+3. Zhang, H., & Tu, T. (2017). Dynamic Outsourced Auditing Services for Cloud Storage Based on Batch-Leaves-Authenticated Merkle Hash Tree. IEEE Transactions on Services Computing.
+4. Tu, T., Rao, L., Zhang, H., Wen, Q., & Xiao, J. (2017). Privacy-Preserving Outsourced Auditing Scheme for Dynamic Data Storage in Cloud. Security and Communication Networks, 2017.
+5. CHEN, Z., ZHANG, H., & TU, T. (2017). ICSMap: An ICS Scanning Tool Based on Stateless Connections. DEStech Transactions on Computer Science and Engineering, (aiea).
+6. Tu, T., Zhang, H., Qin, B., & Chen, Z. (2017). A Vulnerability Mining System Based on Fuzzing for IEC 61850 Protocol.
+7. Qin, B., Zhang, H., Tu, T., & Guan, H. AN SDN-BASED ADAPTIVE SAMPLING FRAMEWORK FOR BOTNET DETECTION IN IOT NETWORKS.
 
 #### Patents
 
