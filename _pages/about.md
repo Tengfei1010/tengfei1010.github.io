@@ -30,7 +30,7 @@ narrow: true
 - Third prize in “LanQiaoBei” of National Software Design Competition.
 
 #### Publications
-1. Understanding Real-World Concurrency Bug in Go <br/>
+1. Understanding Real-World Concurrency Bugs in Go <br/>
 Tengfei Tu, Xiaoyu Liu, Linhai Song and Yiying Zhang; ASPLOS 2019.
 
 2. [LncCeRBase: a database of experimentally validated human competing endogenous long non-coding RNAs](https://doi.org/10.1093/database/bay061) <br/>
