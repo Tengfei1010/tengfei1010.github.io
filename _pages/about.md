@@ -34,14 +34,14 @@ narrow: true
 Tengfei Tu, Xiaoyu Liu, Linhai Song and Yiying Zhang; ASPLOS 2019.
 
 2. [LncCeRBase: a database of experimentally validated human competing endogenous long non-coding RNAs](https://doi.org/10.1093/database/bay061) <br/>
-Cong Pian, Guangle Zhang, Tengfei Tu, Xiangyu Ma, Fei Li; Database, Volume 2018 (2018).
+Cong Pian, Guangle Zhang, Tengfei Tu, Xiangyu Ma and Fei Li; Database, Volume 2018 (2018).
 
-3. [Dynamic Outsourced Proofs of Retrievability Enabling Auditing Migration for Remote Storage Security](https://www.hindawi.com/journals/wcmc/2018/4186243/) <br/> Lu Rao, Tengfei Tu, Hua Zhang, Qiaoyao Wen, & Jia Xiao. Wireless Communications and Mobile Computing (2018).
+3. [Dynamic Outsourced Proofs of Retrievability Enabling Auditing Migration for Remote Storage Security](https://www.hindawi.com/journals/wcmc/2018/4186243/) <br/> Lu Rao, Tengfei Tu, Hua Zhang, Qiaoyao Wen, and Jia Xiao. Wireless Communications and Mobile Computing (2018).
 
 4. [Privacy-Preserving Outsourced Auditing Scheme for Dynamic Data Storage in Cloud](https://www.hindawi.com/journals/scn/2017/4603237/) <br/> Tengfei Tu, Lu Rao, Hua Zhang, Qiaoyan Wen and Jia Xiao; Security and Communication Networks (2017).
 
 5. [Dynamic Outsourced Auditing Services for Cloud Storage Based on Batch-Leaves-Authenticated Merkle Hash Tree](https://ieeexplore.ieee.org/document/7934410/) <br/>
-Lu Rao, Hua Zhang, & Tengfei Tu; IEEE Transactions on Services Computing (2017).
+Lu Rao, Hua Zhang, and Tengfei Tu; IEEE Transactions on Services Computing (2017).
 
 #### Patents
 
